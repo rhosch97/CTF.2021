@@ -1,5 +1,4 @@
 #!/bin/bash
-# What is the hostname os?
-# response: Debian 4.19.194-3
-
-look when you log 
+# What is the operating system of our server?
+# response: Linux Debian
+ssh ctf uname -a
