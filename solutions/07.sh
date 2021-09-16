@@ -3,4 +3,3 @@
 #response: Thursday
 
 ssh ctf date '+%A'
-
