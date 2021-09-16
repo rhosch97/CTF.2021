@@ -1,5 +1,5 @@
-#!/bin/bash
-# What is the most recent commit message of the ~/transformers repository?
-# response: Sep 16 00:24
+# !/bin/bash
+# Question : What is te most recent commmit message of the ~/transformers repository?
+# response: [ci] nightly: add deepseed master
 
-ls -l transformers
+git log -1
